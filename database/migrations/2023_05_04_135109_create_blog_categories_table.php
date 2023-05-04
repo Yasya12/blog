@@ -11,6 +11,7 @@ return new class extends Migration
      *
      * @return void
      */
+    //
     public function up()
     {
         Schema::create('blog_categories', function (Blueprint $table) {

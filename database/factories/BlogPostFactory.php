@@ -46,6 +46,6 @@ class BlogPostFactory extends Factory
             'updated_at'     => $date,
 
         ];
-
+//
     }
 }
